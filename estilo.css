@@ -1,7 +1,24 @@
 header {
     background-color: darkblue;
+    color: white;
+    padding: 50px;
 }
 
+header h1 {
+    text-align: center;
+}
+
+#ct {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+}
 .bax {
     background-color: darkblue;
+}
+
+ul {
+    position: relative;
+    top: 40px;
 }
